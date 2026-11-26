@@ -1,0 +1,6 @@
+{
+  "name": "AquaRadar — Pemetaan & Deteksi Air Bawah Tanah 3D",
+  "description": "Aplikasi radar pendeteksi air bawah tanah (GPR) dengan visualisasi tomografi 3D, notifikasi real-time, ekspor geospasial, skematik rangkaian, dan panduan perakitan lengkap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
